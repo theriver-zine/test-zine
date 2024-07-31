@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 excerpt: "PLACEHOLDER"
+layout: single
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
