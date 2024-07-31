@@ -317,9 +317,9 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
+      layout: splash
+      author_profile: false
       read_time: true
       comments: # true
       share: true
-      related: true
+      related: false
